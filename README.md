@@ -117,7 +117,7 @@
   <a href="https://www.connormagnuson.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=90EE90&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
   </a>
-  ![](https://komarev.com/ghpvc/?username=CoderCCM&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=CoderCCM&style=for-the-badge">
 </div>
 
 ###
