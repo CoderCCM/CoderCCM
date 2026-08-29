@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CoderCCM&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/CoderCCM/CoderCCM/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
